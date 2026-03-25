@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Andrii!<br>I’m an Android Developer passionate about building clean, modern, and user-focused mobile apps using Kotlin and Jetpack Compose.
+Java/Kotlin Developer specializing in creating web apps using spring boot.
 
 
 ## 🌐 Socials:
