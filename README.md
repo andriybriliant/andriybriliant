@@ -1,5 +1,5 @@
 # 💫 About Me:
-Java/Kotlin Developer specializing in creating web apps using spring boot.
+Hello, I'm a 3rd year student at Nicolaus Copernicus University in Toruń
 
 
 ## 🌐 Socials:
